@@ -1,0 +1,70 @@
+# Resources for Proposed Use Cases at Maruti Suzuki 
+
+## Enhanced Customer Service with GenAI Chatbots:
+
+| Type | Resource Name | Link |
+|---|---|---|
+| Kaggle Dataset | Automobile Customer | https://www.kaggle.com/datasets/akashdeepkuila/automobile-customer |
+| Kaggle Dataset | Car Market Dataset 100k+ Vehicles | https://www.kaggle.com/datasets/zain280/car-dataset |
+| Kaggle Dataset | Edmunds-Consumer Car Ratings and Reviews | https://www.kaggle.com/datasets/ankkur13/edmundsconsumer-car-ratings-and-reviews |
+| Kaggle Dataset | Cars - Purchase Decision Dataset | https://www.kaggle.com/datasets/gabrielsantello/cars-purchase-decision-dataset |
+| GitHub Repository | Google Cloud Generative AI Chatbot | https://github.com/mongodb-developer/Google-Cloud-Generative-AI-Chatbot |
+| GitHub Repository | Exclusible AI Customer Support | https://github.com/titi-devv/Exclusible-AI-Customer-Support |
+| GitHub Repository | Generative AI for Beginners | https://github.com/microsoft/generative-ai-for-beginners/blob/main/07-building-chat-applications/README.md |
+| GitHub Repository | Customer Support Chatbot | https://github.com/ldulcic/customer-support-chatbot |
+| GitHub Repository | Vertex AI Gemini API for Warranty Claims Chatbot | https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/use-cases/retrieval-augmented-generation/retail_warranty_claim_chatbot.ipynb |
+| GitHub Repository | Customer Support Chatbot with Open LLM and LangChain | https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain/blob/master/10.customer-support-chatbot-with-open-llm-and-langchain.ipynb |
+| GitHub Repository | Grocery Assistant Bot with Vertex AI and LangChain | https://github.com/GoogleCloudPlatform/generative-ai/blob/main/language/use-cases/chatbots/grocerybot_assistant.ipynb |
+| GitHub Repository | AI-Powered ChatBot with ChatGPT | https://github.com/saibattula93/ChatBot |
+| Blog | Chatbots for the Automotive Industry | https://botscrew.com/blog/how-automotive-companies-use-generative-ai/ |
+| Blog | 8 Revolutionary Ways GenAI Can Transform Automotive Customer Experience | http://www.ascentt.com/8-revolutionary-ways-genai-can-transform-automotive-customer-experience/ |
+| Blog | 25 Use Cases for Generative AI In Customer Service | https://www.cxtoday.com/contact-centre/20-use-cases-for-generative-ai-in-customer-service/ |
+| Blog | How GenAI Is Reshaping Customer Experiences in the Automotive Sector | https://randomtrees.medium.com/driving-innovation-how-genai-is-reshaping-customer-experiences-in-the-automotive-sector-3611f516b1cd |
+| Blog | NVIDIA AI Chatbot for Customer Service | https://resources.nvidia.com/en-us-financial-services-industry/ai-for-customer-support |
+| Blog | How Generative AI Is Already Transforming Customer Service | https://www.bcg.com/publications/2023/how-generative-ai-transforms-customer-service |
+| Blog | A Paradigm Shift in Customer Service with Generative AI (GenAI) | https://www.ltimindtree.com/blogs/a-paradigm-shift-in-customer-service-with-generative-ai-genai-making-intelligent-chatbots-to-enhance-customer-support/ |
+| Blog | GenAI's Impact on the Automotive Industry | https://www.automotivedive.com/spons/genais-impact-on-the-automotive-industry-and-tips-to-capitalize-on-it/705268/ |
+| Blog | ChatGPT-powered Chatbots for Car Dealers | https://venturebeat.com/ai/a-chevy-for-1-car-dealer-chatbots-show-perils-of-ai-for-customer-service/ |
+
+## Predictive Maintenance and Defect Detection:
+
+| Type | Resource Name | Link |
+|---|---|---|
+| Kaggle Dataset | Vehicle Maintenance Data | https://www.kaggle.com/datasets/chavindudulaj/vehicle-maintenance-data |
+| Kaggle Dataset | Gearbox Fault Diagnosis: Stacked datasets | https://www.kaggle.com/datasets/brjapon/gearbox-fault-diagnosis-stacked-datasets |
+| Kaggle Dataset | Mechanic Component Images (Normal / Defected) | https://www.kaggle.com/datasets/satishpaladi11/mechanic-component-images-normal-defected |
+| Kaggle Dataset | Car Details' Defects Dataset | https://www.kaggle.com/datasets/zhakhangershaidullov/car-details-defects-dataset |
+| Kaggle Dataset | Manufacturing Defects | https://www.kaggle.com/datasets/fahmidachowdhury/manufacturing-defects |
+| GitHub Repository | ML-Based Vehicle Predictive Maintenance System with Real-Time Visualization | https://github.com/iDharshan/ML-Based-Vehicle-Predictive-Maintenance-System-with-Real-Time-Visualization |
+| GitHub Repository | Predictive Maintenance for Vehicules | https://github.com/nassriayman/Predictive-Maintenance-for-Vehicules |
+| GitHub Repository | Predictive Maintenance Project | https://github.com/thehapyone/Predictive-Maintenance-Project |
+| GitHub Repository | Applications of AI for Predictive Maintenance | https://github.com/HROlive/Applications-of-AI-for-Predictive-Maintenance |
+| GitHub Repository | Predictive Maintenance with Autoencoders | https://github.com/nagdevAmruthnath/Predictive-Maintenance/blob/master/Anomaly%20Detection/Predicve%20Maintenance%20-%20Auto%20Encoder.ipynb |
+| GitHub Repository | Data-Driven Predictive Maintenance | https://github.com/lifesailor/data-driven-predictive-maintenance |
+| GitHub Repository | Predictive Maintenance with Amazon SageMaker | https://github.com/aws-samples/amazon-sagemaker-architecting-for-ml/blob/master/Writeups/Predictive_Maintenance.md |
+| GitHub Repository | Sensor Fault Detection in Heavy-Duty Vehicles | https://github.com/Machine-Learning-01/sensor-fault-detection |
+| Hugging Face Dataset | Car Damage Detection Model | https://huggingface.co/beingamit99/car_damage_detection |
+| Hugging Face Dataset | Trial Llama3 Dataset | https://huggingface.co/datasets/manoj198508/trial_llama3_dataset_v1/viewer |
+| Hugging Face Dataset | Defect Detection Dataset | https://huggingface.co/datasets/mcanoglu/defect-detection |
+| Hugging Face Paper | Automotive Fault Nowcasting with ML | https://link.springer.com/article/10.1007/s10994-023-06398-7 |
+| Hugging Face Dataset | AWS Fractal Manufacturing Predictive Maintenance Datasets | https://huggingface.co/datasets/DL02/TM |
+| Hugging Face Integration | Edge Impulse Image Classification for Predictive Maintenance | https://docs.edgeimpulse.com/experts/software-integration-demos/hugging-face-image-classification-dataset |
+| Hugging Face Repository | Edge Impulse Expert Projects | https://github.com/edgeimpulse/expert-projects |
+
+## Autonomous Driving Features:
+
+| Type | Resource Name | Link |
+|---|---|---|
+| Kaggle Dataset | Vehicle Dataset from Cardekho | https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho |
+
+## Optimizing Supply Chain and Logistics:
+
+| Type | Resource Name | Link |
+|---|---|---|
+| Kaggle Dataset | Vehicle Sales Data | https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data |
+
+## Vehicle Performance and Safety:
+
+| Type | Resource Name | Link |
+|---|---|---|
+| Kaggle Dataset | Automobile Dataset | https://www.kaggle.com/datasets/toramky/automobile-dataset |
