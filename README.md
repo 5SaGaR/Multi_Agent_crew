@@ -2,6 +2,8 @@
 
 Create a Python virtual environment first after clonining the project (python -m venv venv) then activate venv(name accordingly) (.\venv\Scripts\activate)
 
+Add .env file in project directory where you should declare API keys of services used as environment variables
+
 Install dependencies by running pip install -r requirements.txt
 
 Run the app by using(python app.py) command 
