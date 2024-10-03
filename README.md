@@ -1,4 +1,4 @@
-# Steps to run the Agent 
+# Steps to run the Crew 
 
 Create a Python virtual environment first after clonining the project (python -m venv venv) then activate venv(name accordingly) (.\venv\Scripts\activate)
 
