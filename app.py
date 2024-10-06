@@ -24,7 +24,7 @@ def process_company_name(company_name):
     try:
         doc = Document()
         doc.add_paragraph(resource_output)
-        doc.save('outputs/Final_resource_collection.docx')
+        doc.save(f'outputs/Final_resource_collection{company_name}.docx')
     except Exception as e:
         return f"An error occurred while saving the resource collection document: {e}"
 
@@ -32,7 +32,7 @@ def process_company_name(company_name):
     try:
         doc = Document()
         doc.add_paragraph(structured_output)
-        doc.save('outputs/use_cases_suggested.docx')
+        doc.save(f'outputs/use_cases_suggested{company_name}.docx')
     except Exception as e:
         return f"An error occurred while saving the use cases document: {e}"
 
