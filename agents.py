@@ -185,7 +185,7 @@ resource_writer = Task(
 )
 
 Resource_Gen_crew = Crew(
-    agents=[Company_research_agent, Market_research_agent, Use_Case_generation_agent, Market_research_agent, Use_Case_generation_agent],
+    agents=[Company_research_agent, Market_research_agent, Use_Case_generation_agent, Resource_Collect_Agent],
     tasks=[Company_task, Industry_task, write_task, Market_Research_task, Use_case_generate_task, structured_writer, Huggingface_task, Github_task, Kaggle_task, resource_writer],
     process=Process.sequential,
     verbose=True,
